@@ -1,4 +1,4 @@
-package com.bridgelabz.JUintTesting;
+package com.bridgelabz;
 
 import com.bridgelabz.JUnit.BasicJUnitTesting.StringUtilsTest.StringUtils;
 import org.junit.jupiter.api.Test;
