@@ -2,10 +2,9 @@ package com.bridgelabz.JUintTesting;
 
 import com.bridgelabz.JUnit.BasicJUnitTesting.CalculatorTest.Calculator;
 import org.junit.Test;
-import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class CalculatorTesting {
+public class CalculatorTesting{
     Calculator calculator = new Calculator();
 
     @Test
