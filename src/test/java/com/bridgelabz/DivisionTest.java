@@ -1,7 +1,6 @@
 package com.bridgelabz;
 
-import com.bridgelabz.JUnit.BasicJUnitTesting.divisionTest.Division;
-import com.bridgelabz.JUnit.BasicJUnitTesting.divisionTest.assertThrowsArithmeticException;
+import com.bridgelabz.JUnit.divisionTest.Division;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

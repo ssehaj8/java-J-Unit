@@ -1,4 +1,4 @@
-package com.bridgelabz.JUnit.BasicJUnitTesting.StringUtilsTest;
+package com.bridgelabz.JUnit.StringUtilsTest;
 public class StringUtils {
 
     public String reverse(String str) {

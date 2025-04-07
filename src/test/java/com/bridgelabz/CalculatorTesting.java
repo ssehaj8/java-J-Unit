@@ -1,7 +1,6 @@
 package com.bridgelabz;
 
-import com.bridgelabz.JUnit.BasicJUnitTesting.CalculatorTest.Calculator;
-import org.junit.*;
+import com.bridgelabz.JUnit.CalculatorTest.Calculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

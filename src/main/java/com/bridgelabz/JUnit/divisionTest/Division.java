@@ -1,4 +1,4 @@
-package com.bridgelabz.JUnit.BasicJUnitTesting.divisionTest;
+package com.bridgelabz.JUnit.divisionTest;
 
 public class Division {
     public int divide(int i, int i1) {

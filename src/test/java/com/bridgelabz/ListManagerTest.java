@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-import com.bridgelabz.JUnit.BasicJUnitTesting.listMangerTest.ListManager;
+import com.bridgelabz.JUnit.listMangerTest.ListManager;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

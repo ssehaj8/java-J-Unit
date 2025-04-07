@@ -1,4 +1,4 @@
-package com.bridgelabz.JUnit.BasicJUnitTesting.listMangerTest;
+package com.bridgelabz.JUnit.listMangerTest;
 
 import java.util.List;
 

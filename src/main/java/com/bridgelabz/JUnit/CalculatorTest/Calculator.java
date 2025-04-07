@@ -1,4 +1,4 @@
-package com.bridgelabz.JUnit.BasicJUnitTesting.CalculatorTest;
+package com.bridgelabz.JUnit.CalculatorTest;
 
 public class Calculator {
     public int add(int a, int b) {

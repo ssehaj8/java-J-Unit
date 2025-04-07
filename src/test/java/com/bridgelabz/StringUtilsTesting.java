@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-import com.bridgelabz.JUnit.BasicJUnitTesting.StringUtilsTest.StringUtils;
+import com.bridgelabz.JUnit.StringUtilsTest.StringUtils;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
